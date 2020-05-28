@@ -1,8 +1,8 @@
 # Ryu Controller Notes
 ## 1) Preparing Development Environment
-### Installing Ryu Controller
-### Installing vscode
-### Write our first SDN application
+### a) Installing Ryu Controller
+### b) Installing vscode
+### c) Write our first SDN application
 
 
 ## Usefull resources for learning Ryu Controller
