@@ -7,7 +7,7 @@
 
 ## Usefull resources for learning Ryu Controller
 ### Ryu Github:
-git://github.com/osrg/ryu.git
+https://github.com/osrg/ryu.git
 
 ### Ryu Website:
 https://ryu-sdn.org/
