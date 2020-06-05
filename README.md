@@ -22,6 +22,8 @@ https://sdncentral.ir/1396/05/21/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%88-%D9%86%D8
 
 
 ## 1) Preparing Development Environment
-### a) Ryu Controller Installation
-### b) Visual Studio Code (VS Code) Installation
+### a) Installing Ryu Controller
+### b) Installing vscode
 ### c) Write our first SDN application
+
+
