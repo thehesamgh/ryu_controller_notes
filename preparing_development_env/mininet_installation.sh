@@ -1,5 +1,5 @@
 git clone https://github.com/mininet/mininet
-cd mininet/utils
+cd mininet/util
 ./install.sh -fnv
 
 
