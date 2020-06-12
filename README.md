@@ -30,3 +30,7 @@ https://github.com/hqasemi/ryu_controller_notes/tree/lesson1
 
 ## 2) Ryu Topology Discovery
 https://github.com/hqasemi/ryu_controller_notes/tree/lesson2
+
+
+## 3) Write a simple shortest path finder module on Ryu Controller
+https://github.com/hqasemi/ryu_controller_notes/tree/lesson3
