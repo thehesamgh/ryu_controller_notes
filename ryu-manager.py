@@ -11,7 +11,8 @@ def main():
     sys.argv.append('6653')
 
     #sys.argv.append('simplest_ryu_app.py')
-    sys.argv.append('topology_discovery.py')
+    #sys.argv.append('topology_discovery.py')
+    sys.argv.append('shortest_path_finder.py')
 
     # sys.argv.append('--verbose')
     # sys.argv.append('--enable-debugger')
